@@ -42,7 +42,7 @@ This project was built to strengthen:
 ## Installation & Usage
 
 1. Clone the repository
-   git clone https://github.com/rashi-v10/spotify-clone
+   git clone https://github.com/rashi-v10/spotifyclone
 
 2. Open the project folder
 
